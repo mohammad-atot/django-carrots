@@ -1,0 +1,5 @@
+print("hi world:")
+a=input("esme ra vared konid")
+while True:
+  if a=="atot":
+  break
